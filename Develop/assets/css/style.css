@@ -51,12 +51,14 @@ p {
 }
 
 .hero {
-    height: 800px;
+    /*changed height to 100%*/
+    height: 100%;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    /*removed url reference to picture so that we can add a descriptor to the html*/
+    /*changed size and position to 100%*/
+    background-size: auto;
+    background-position: auto;
 }
 
 .float-left {
