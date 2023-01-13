@@ -20,7 +20,7 @@ As I've worked through creating this, I've learned how to work within HTML and C
 
 ## Website Preview
 
-[Horiseon Website Link](https://estee3.github.io/02-Challenge/)
+[Horiseon Website Link](https://estee3.github.io/Accessability-Refactoring/)
 
 ![alt text](assets/images/Website.png)
 
